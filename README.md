@@ -69,7 +69,7 @@ Obrigado por visitar meu perfil! Sinta-se à vontade para entrar em contato ou c
 <!-- Links úteis 
 ## Links Úteis
 
-<!-- Adicione links para tutoriais, artigos, ou qualquer outro recurso que você ache relevante -->
+ Adicione links para tutoriais, artigos, ou qualquer outro recurso que você ache relevante 
 - [Guia do Markdown](https://www.markdownguide.org/)
 - [Documentação do GitHub](https://docs.github.com/)-->
 
