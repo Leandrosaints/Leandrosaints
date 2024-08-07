@@ -19,7 +19,7 @@ Olá! Eu sou Leandro sainst, um desenvolvedor apaixonado por tecnologia e inova�
 <!-- Liste suas principais habilidades e tecnologias que você domina -->
 - **Linguagens de Programação**: Python avançado, JavaScript basico
 - **Frameworks**: Django, Flask, Flask_RESTful, FastAPI, Streamlit
-- **Ferramentas e Tecnologias**: Git, SQL, MysQL
+- **Ferramentas e Tecnologias**: Git, SQL, MySQL
 - **Outras Habilidades**: API REST e RESTful, Desenvolvimento Web
 
 <!-- Seção de projetos
