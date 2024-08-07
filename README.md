@@ -9,7 +9,7 @@
 Olá! Eu sou Leandro sainst, um desenvolvedor apaixonado por tecnologia e inovação. Tenho experiência em desenvolvimento de software, especialmente em Python, e estou sempre em busca de novos desafios para melhorar minhas habilidades.
 
 <!-- Links para redes sociais e contatos -->
-- 💼 [LinkedIn][(https://www.linkedin.com/in/seu-perfil)](https://www.linkedin.com/in/leandro-soares-46610b25b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 💼 [LinkedIn][https://www.linkedin.com/in/leandro-soares-46610b25b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
 - 📧 [Email](leo320487@gmail.com)
 
 
