@@ -9,21 +9,21 @@
 Olá! Eu sou Leandro sainst, um desenvolvedor apaixonado por tecnologia e inovação. Tenho experiência em desenvolvimento de software, especialmente em Python, e estou sempre em busca de novos desafios para melhorar minhas habilidades.
 
 <!-- Links para redes sociais e contatos -->
-- 💼 [LinkedIn](https://www.linkedin.com/in/seu-perfil)
-- 📧 [Email](mailto:seu-email@exemplo.com)
-- 🌐 [Site Pessoal](https://seusite.com)
+- 💼 [LinkedIn][(https://www.linkedin.com/in/seu-perfil)](https://www.linkedin.com/in/leandro-soares-46610b25b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 📧 [Email](leo320487@gmail.com)
+
 
 <!-- Seção de habilidades -->
 ## Habilidades
 
 <!-- Liste suas principais habilidades e tecnologias que você domina -->
 - **Linguagens de Programação**: Python avançado, JavaScript basico
-- **Frameworks**: Django, Flask, FastAPI, Streamlit
-- **Ferramentas e Tecnologias**: Git, 
-- **Outras Habilidades**: API REST e RESTful, Machine Learning, Visão Computacional, Desenvolvimento Web
+- **Frameworks**: Django, Flask, Flask_RESTful, FastAPI, Streamlit
+- **Ferramentas e Tecnologias**: Git, SQL, MysQL
+- **Outras Habilidades**: API REST e RESTful, Desenvolvimento Web
 
-<!-- Seção de projetos -->
-## Projetos
+<!-- Seção de projetos
+## Projetos -->
 
 <!-- Destaque alguns projetos importantes que você trabalhou, incluindo links para os repositórios 
 ### [Projeto 1](https://github.com/seu-usuario/projeto1)
@@ -45,8 +45,8 @@ Olá! Eu sou Leandro sainst, um desenvolvedor apaixonado por tecnologia e inova�
 - Contribuidor ativo para o [Projeto Open Source](https://github.com/projeto-open-source)
 - Autor de diversos tutoriais e artigos técnicos no [Medium](https://medium.com/@seu-usuario) -->
 
-<!-- Seção de estatísticas do GitHub -->
-## Estatísticas do GitHub
+<!-- Seção de estatísticas do GitHub 
+## Estatísticas do GitHub-->
 
 <!-- Widgets para mostrar suas estatísticas do GitHub 
 ![Estatísticas do GitHub de Seu Nome](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
@@ -66,11 +66,11 @@ Olá! Eu sou Leandro sainst, um desenvolvedor apaixonado por tecnologia e inova�
 <!-- Agradeça a todos que contribuíram para seu crescimento e desenvolvimento -->
 Obrigado por visitar meu perfil! Sinta-se à vontade para entrar em contato ou colaborar em algum projeto. Vamos construir algo incrível juntos!
 
-<!-- Links úteis -->
+<!-- Links úteis 
 ## Links Úteis
 
 <!-- Adicione links para tutoriais, artigos, ou qualquer outro recurso que você ache relevante -->
 - [Guia do Markdown](https://www.markdownguide.org/)
-- [Documentação do GitHub](https://docs.github.com/)
+- [Documentação do GitHub](https://docs.github.com/)-->
 
 <!-- Fim do README.md -->
