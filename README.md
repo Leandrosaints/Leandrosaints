@@ -17,15 +17,15 @@ Olá! Eu sou Leandro sainst, um desenvolvedor apaixonado por tecnologia e inova�
 ## Habilidades
 
 <!-- Liste suas principais habilidades e tecnologias que você domina -->
-- **Linguagens de Programação**: Python, JavaScript, C++
-- **Frameworks**: Django, Flask, React
-- **Ferramentas e Tecnologias**: Git, Docker, Kubernetes
-- **Outras Habilidades**: Machine Learning, Visão Computacional, Desenvolvimento Web
+- **Linguagens de Programação**: Python avançado, JavaScript basico
+- **Frameworks**: Django, Flask, FastAPI, Streamlit
+- **Ferramentas e Tecnologias**: Git, 
+- **Outras Habilidades**: API REST e RESTful, Machine Learning, Visão Computacional, Desenvolvimento Web
 
 <!-- Seção de projetos -->
 ## Projetos
 
-<!-- Destaque alguns projetos importantes que você trabalhou, incluindo links para os repositórios -->
+<!-- Destaque alguns projetos importantes que você trabalhou, incluindo links para os repositórios 
 ### [Projeto 1](https://github.com/seu-usuario/projeto1)
 - Descrição breve do projeto
 - Tecnologias usadas: Python, Flask, PostgreSQL
@@ -36,28 +36,28 @@ Olá! Eu sou Leandro sainst, um desenvolvedor apaixonado por tecnologia e inova�
 
 ### [Projeto 3](https://github.com/seu-usuario/projeto3)
 - Descrição breve do projeto
-- Tecnologias usadas: Python, TensorFlow, OpenCV
+- Tecnologias usadas: Python, TensorFlow, OpenCV -->
 
-<!-- Seção de contribuições -->
-## Contribuições
+<!-- Seção de contribuições 
+## Contribuições -->
 
-<!-- Mostre como você tem contribuído para a comunidade de código aberto -->
+<!-- Mostre como você tem contribuído para a comunidade de código aberto
 - Contribuidor ativo para o [Projeto Open Source](https://github.com/projeto-open-source)
-- Autor de diversos tutoriais e artigos técnicos no [Medium](https://medium.com/@seu-usuario)
+- Autor de diversos tutoriais e artigos técnicos no [Medium](https://medium.com/@seu-usuario) -->
 
 <!-- Seção de estatísticas do GitHub -->
 ## Estatísticas do GitHub
 
-<!-- Widgets para mostrar suas estatísticas do GitHub -->
+<!-- Widgets para mostrar suas estatísticas do GitHub 
 ![Estatísticas do GitHub de Seu Nome](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)-->
 
 <!-- Seção de metas -->
 ## Metas
 
 <!-- Liste algumas de suas metas e objetivos futuros como desenvolvedor -->
 - 🌱 Aprendendo mais sobre DevOps e Cloud Computing
-- 🔭 Trabalhando em projetos de Inteligência Artificial e Machine Learning
+- 🔭 Trabalhando em projetos de Aplicativos web e analise de dados
 - 🤝 Buscando colaborar em mais projetos Open Source
 
 <!-- Seção de agradecimentos -->
