@@ -1,9 +1,6 @@
-<!--
-README.md para seu perfil no GitHub
--->
 
 <!-- Título do seu perfil -->
-# Bem-vindo ao meu Perfil no GitHub! 👋
+# Bem-vindo! 👋
 
 <!-- Seção sobre você -->
 ## Sobre Mim
