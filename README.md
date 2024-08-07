@@ -10,7 +10,7 @@ Olá! Eu sou Leandro sainst, um desenvolvedor apaixonado por tecnologia e inova�
 
 <!-- Links para redes sociais e contatos -->
 - 💼 [LinkedIn](https://www.linkedin.com/in/leandro-soares-46610b25b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- 📧 [Email][leo320487@gmail.com]
+- 📧 [leo320487@gmail.com]
 
 
 <!-- Seção de habilidades -->
