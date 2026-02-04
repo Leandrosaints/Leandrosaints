@@ -1,69 +1,78 @@
 <!-- Título do seu perfil -->
-# Bem-vindo! 👋
+# Bem-vindo ao meu perfil! 👋
 
-<!-- Seção sobre você -->
+---
+
 ## Sobre Mim
 
-<!-- Adicione uma breve descrição sobre quem você é, seu background e interesses -->
-Olá! Eu sou Leandro sainst, um desenvolvedor apaixonado por tecnologia e inovação. Tenho experiência em desenvolvimento de software, especialmente em Python, e estou sempre em busca de novos desafios para melhorar minhas habilidades.
+Olá! Eu sou **Leandro Sainst**, um desenvolvedor apaixonado por tecnologia e inovação. Com experiência em desenvolvimento de software, especialmente em **Python**, estou sempre em busca de novos desafios para aprimorar minhas habilidades e contribuir para projetos interessantes.
 
-<!-- Links para redes sociais e contatos -->
+---
+
+## Contatos e Redes Sociais
+
 - 💼 [LinkedIn](https://www.linkedin.com/in/leandro-soares-46610b25b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- 📧 [leo320487@gmail.com]
+- 📧 [leo320487@gmail.com](mailto:leo320487@gmail.com)
 
+---
 
-<!-- Seção de habilidades -->
 ## Habilidades
 
-<!-- Liste suas principais habilidades e tecnologias que você domina -->
-- **Linguagens de Programação**: Python avançado, JavaScript basico
-- **Frameworks**: Django, Flask, Flask_RESTful, FastAPI, Streamlit
+- **Linguagens de Programação**: Python (avançado), JavaScript (básico)
+- **Frameworks**: Django, Flask, Flask-RESTful, FastAPI, Streamlit
 - **Ferramentas e Tecnologias**: Git, SQL, MySQL
 - **Outras Habilidades**: API REST e RESTful, Desenvolvimento Web
 
-<!-- Seção de projetos
-## Projetos -->
+---
 
-<!-- Destaque alguns projetos importantes que você trabalhou, incluindo links para os repositórios 
+## Projetos
+
 ### [Projeto 1](https://github.com/seu-usuario/projeto1)
-- Descrição breve do projeto
-- Tecnologias usadas: Python, Flask, PostgreSQL
+- **Descrição**: Um projeto que visa...
+- **Tecnologias**: Python, Flask, PostgreSQL
 
 ### [Projeto 2](https://github.com/seu-usuario/projeto2)
-- Descrição breve do projeto
-- Tecnologias usadas: JavaScript, React, Node.js
+- **Descrição**: Um projeto que aborda...
+- **Tecnologias**: JavaScript, React, Node.js
 
 ### [Projeto 3](https://github.com/seu-usuario/projeto3)
-- Descrição breve do projeto
-- Tecnologias usadas: Python, TensorFlow, OpenCV -->
+- **Descrição**: Um projeto focado em...
+- **Tecnologias**: Python, TensorFlow, OpenCV
 
-<!-- Seção de contribuições 
-## Contribuições -->
+---
 
-<!-- Mostre como você tem contribuído para a comunidade de código aberto
+## Contribuições
+
 - Contribuidor ativo para o [Projeto Open Source](https://github.com/projeto-open-source)
-- Autor de diversos tutoriais e artigos técnicos no [Medium](https://medium.com/@seu-usuario) -->
+- Autor de diversos tutoriais e artigos técnicos no [Medium](https://medium.com/@seu-usuario)
 
-<!-- Seção de estatísticas do GitHub 
-## Estatísticas do GitHub-->
+---
 
-<!-- Widgets para mostrar suas estatísticas do GitHub 
-![Estatísticas do GitHub de Seu Nome](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)-->
+## Estatísticas do GitHub
 
-<!-- Seção de metas -->
+![Estatísticas do GitHub de Leandro Sainst](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
+
+---
+
 ## Metas
 
-<!-- Liste algumas de suas metas e objetivos futuros como desenvolvedor -->
-- 🌱 Aprendendo mais sobre DevOps e Cloud Computing
-- 🔭 Trabalhando em projetos de Aplicativos web e analise de dados
-- 🤝 Buscando colaborar em mais projetos Open Source
+- 🌱 Aprender mais sobre **DevOps** e **Cloud Computing**
+- 🔭 Trabalhar em projetos de **Aplicativos Web** e **Análise de Dados**
+- 🤝 Colaborar em mais projetos **Open Source**
 
-<!-- Seção de agradecimentos -->
+---
+
 ## Agradecimentos
 
-<!-- Agradeça a todos que contribuíram para seu crescimento e desenvolvimento -->
 Obrigado por visitar meu perfil! Sinta-se à vontade para entrar em contato ou colaborar em algum projeto. Vamos construir algo incrível juntos!
 
-<!-- Links úteis 
+---
+
 ## Links Úteis
+
+- [Documentação do Python](https://docs.python.org/3/)
+- [GitHub Guides](https://guides.github.com/)
+- [MDN Web Docs](https://developer.mozilla.org/)
+
+---
