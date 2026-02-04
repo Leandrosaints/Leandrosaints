@@ -5,9 +5,9 @@
 
 ## 🌟 Sobre Mim
 
-Olá! Eu sou **Leandro Sainst**, um desenvolvedor apaixonado por tecnologia e inovação. Com experiência em desenvolvimento de software, especialmente em **Python**, estou sempre em busca de novos desafios para aprimorar minhas habilidades e contribuir para projetos interessantes. 
+Olá! Eu sou **Leandro Saints**, um profissional de TI com formação em **Biologia**. Embora pareça uma combinação inusitada, a biologia se integra no meu dia a dia, especialmente quando se trata de resolver problemas e entender sistemas complexos. 
 
-Quando não estou codificando, você pode me encontrar explorando novas tecnologias ou lendo sobre as últimas tendências em desenvolvimento.
+Sou um desenvolvedor que adora explorar novas tecnologias e, nos meus momentos livres, gosto de projetos indie. Estou sempre aprendendo algo novo, seja sobre redes, manutenção de hardware ou supervisão de ambientes de servidores.
 
 ---
 
@@ -15,7 +15,6 @@ Quando não estou codificando, você pode me encontrar explorando novas tecnolog
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/leandro-soares-46610b25b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - 📧 [leo320487@gmail.com](mailto:leo320487@gmail.com)
-- 🌐 [Meu Portfólio](https://seu-portfolio.com) *(adicionar link)*
 
 ---
 
@@ -23,53 +22,35 @@ Quando não estou codificando, você pode me encontrar explorando novas tecnolog
 
 | Linguagens de Programação | Frameworks                   | Ferramentas e Tecnologias      | Outras Habilidades             |
 |---------------------------|------------------------------|--------------------------------|--------------------------------|
-| Python (avançado)         | Django                       | Git                            | API REST e RESTful             |
-| JavaScript (básico)       | Flask, Flask-RESTful        | SQL, MySQL                     | Desenvolvimento Web            |
-|                           | FastAPI, Streamlit          |                                |                                |
-
+| Python                    | Django                       | Git                            | API REST e RESTful             |
+| javascript                | Flask                        | SQL, MySQL                     | Desenvolvimento Web            |
+|                           | FastAPI                      | Windows Server                 | Supervisão de Ambientes        |
+|                           |                              |                                | Powershell                     |
+|                           |                              |                                | AppScript /googlesheet         | 
+                                                                                                                              
 ---
 
 ## 📂 Projetos
 
-### 🚀 [Projeto 1](https://github.com/seu-usuario/projeto1)
-- **Descrição**: Um projeto que visa...
-- **Tecnologias**: Python, Flask, PostgreSQL
+### 🚀 Monitoramento de Faltas
+- **Descrição**: Um aplicativo web para monitorar faltas. 
 
-### 🌍 [Projeto 2](https://github.com/seu-usuario/projeto2)
-- **Descrição**: Um projeto que aborda...
-- **Tecnologias**: JavaScript, React, Node.js
-
-### 🧠 [Projeto 3](https://github.com/seu-usuario/projeto3)
-- **Descrição**: Um projeto focado em...
-- **Tecnologias**: Python, TensorFlow, OpenCV
-
----
-
-## 🤝 Contribuições
-
-- Contribuidor ativo para o [Projeto Open Source](https://github.com/projeto-open-source)
-- Autor de diversos tutoriais e artigos técnicos no [Medium](https://medium.com/@seu-usuario)
-
----
-
-## 📊 Estatísticas do GitHub
-
-![Estatísticas do GitHub de Leandro Sainst](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
+### 🛠️ Software para Criação de Usuários
+- **Descrição**: Ferramenta para criação de usuários e regras em ambientes de servidores Windows Server, utilizando Python e PowerShell. 
 
 ---
 
 ## 🎯 Metas
 
 - 🌱 Aprender mais sobre **DevOps** e **Cloud Computing**
-- 🔭 Trabalhar em projetos de **Aplicativos Web** e **Análise de Dados**
-- 🤝 Colaborar em mais projetos **Open Source**
+- 🔭 Continuar desenvolvendo habilidades em **redes** e **manutenção de hardware**
+- 🤝 Explorar mais sobre **supervisão de ambientes de servidores**
 
 ---
 
 ## 🙏 Agradecimentos
 
-Obrigado por visitar meu perfil! Sinta-se à vontade para entrar em contato ou colaborar em algum projeto. Vamos construir algo incrível juntos!
+Obrigado por visitar meu perfil! Sinta-se à vontade para entrar em contato ou conversar sobre tecnologia. Vamos construir algo incrível juntos!
 
 ---
 
